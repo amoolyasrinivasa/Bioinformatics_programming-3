@@ -6,12 +6,15 @@ get_fh() gets the file handle to sequences in the fasta file, get_header_and_seq
 ## Getting started
 
 ##Dependencies
+
 Runs on linux or any other CLI
 
 ##Installing
+
 The programs can be found on the programming6200/assignment3 directory on defiance
 
 ##Executing programs
+
 $ python3 pdb_fasta_splitter.py --infile ss.txt
 $ python3 pdb_fasta_splitter.py -h 
 $ python3 pdb_fasta_splitter.py
